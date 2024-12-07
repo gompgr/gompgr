@@ -2,7 +2,6 @@
 
 Me chamo Gilmar, sou do interior do Rio Grande do Sul, começando a me aventurar no mundo da tecnologia. Aceito de bom grado dicas e críticas de como posso melhorar para no futuro poder contribuir com a comunidade!
 
-Pretendo neste pequeno projeto criar um bot que envia de forma automática mensagens de whatsapp para uma lista de clientes criada previamente.
 
 ### Conecte-se comigo
 
